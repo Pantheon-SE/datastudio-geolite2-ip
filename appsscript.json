@@ -1,0 +1,17 @@
+{
+  "dataStudio": {
+    "name": "GeoLite2 IP Converter",
+    "logoUrl": "https://static.maxmind.com/8fcd994c43e836d36d76/images/product-icon-geoip2-db.svg",
+    "company": "Pantheon",
+    "companyUrl": "https://pantheon.io",
+    "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/npm-downloads",
+    "supportUrl": "https://github.com/google/datastudio/issues",
+    "description": "Get GeoIP data from IP addresses.",
+    "sources": ["geolite2"]
+  },
+  "timeZone": "America/Chicago",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
